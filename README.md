@@ -1,2 +1,6 @@
 # Largest-Area-JS
-Hackerrank assessment
+- Hackerrank assessment
+
+## Built With
+- VS Code
+- JavaScript
